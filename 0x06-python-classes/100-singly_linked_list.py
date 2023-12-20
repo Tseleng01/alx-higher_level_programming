@@ -18,3 +18,4 @@ And a class SinglyLinkedList that defines a singly linked list by:
   - one node number by line
 - Public instance method: def sorted_insert(self, value): that inserts a new Node into the correct sorted position in the list (increasing order)
 - You are not allowed to import any module
+100-singly_linked_list.py
